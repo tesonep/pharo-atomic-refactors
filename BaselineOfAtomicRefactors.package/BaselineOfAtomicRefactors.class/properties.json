@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfAtomicRefactors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfAtomicRefactors",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
