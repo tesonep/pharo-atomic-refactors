@@ -1,0 +1,16 @@
+{
+	"category" : "AtomicRefactors-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"example",
+		"superClass",
+		"subClass" ],
+	"name" : "ARNonAtomicRefactorsTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
