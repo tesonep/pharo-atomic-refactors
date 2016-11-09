@@ -1,0 +1,17 @@
+{
+	"category" : "AtomicRefactors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"targetClass",
+		"variablesToExtract",
+		"newClassName",
+		"referenceVariableName" ],
+	"name" : "ARSplitClassRefactoring",
+	"pools" : [
+		 ],
+	"super" : "ARAtomicRefactor",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "AtomicRefactors",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"variableName",
+		"targetClass" ],
+	"name" : "ARInstanceVariableRefactoring",
+	"pools" : [
+		 ],
+	"super" : "ARAtomicRefactor",
+	"type" : "normal" }

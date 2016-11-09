@@ -1,0 +1,3 @@
+executing
+checkPreconditions
+	self subclassResponsibility 

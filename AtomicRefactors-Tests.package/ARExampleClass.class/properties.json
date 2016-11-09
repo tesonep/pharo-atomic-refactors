@@ -1,0 +1,15 @@
+{
+	"category" : "AtomicRefactors-Tests-ExampleClass",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"OneClassVariable",
+		"OtherClassVariable" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"oneInstanceVariable" ],
+	"name" : "ARExampleClass",
+	"pools" : [
+		 ],
+	"super" : "ARSuperclassExampleClass",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+accessing
+referenceVariableName
+	^ referenceVariableName

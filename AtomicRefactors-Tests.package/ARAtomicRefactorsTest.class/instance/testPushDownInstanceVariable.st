@@ -1,6 +1,5 @@
-failures
+tests
 testPushDownInstanceVariable
-	<expectedFailure>
 	| x refactor |
 	x := example new.
 	x oneInstanceVariable: 23.
@@ -10,8 +9,11 @@ testPushDownInstanceVariable
 	self assert: x superInstanceVariable equals: 72.
 
 
-	refactor := RBPushDownInstanceVariableRefactoring variable: 'superInstanceVariable' class: superClass.
+	refactor := self pushDownInstanceRefactorClass variable: 'superInstanceVariable' class: superClass.
 	refactor execute.
+
+	self deny: (superClass instanceVariables includes:#superInstanceVariable). 
+	self assert: (example instanceVariables includes:#superInstanceVariable). 
 
 	self assert: x usingInstanceVariable equals: 23.
 	self assert: x superInstanceVariable equals: 72

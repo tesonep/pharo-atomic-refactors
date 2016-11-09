@@ -6,9 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "ARNonAtomicRefactorsTest",
+		"example",
+		"superClass",
+		"subClass" ],
+	"name" : "ARAbstractTestCase",
 	"pools" : [
 		 ],
-	"super" : "ARAtomicRefactorsTest",
+	"super" : "TestCase",
 	"type" : "normal" }

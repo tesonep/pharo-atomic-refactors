@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "ARNonAtomicRefactorsTest",
+	"name" : "ARAtomicRefactorsTest",
 	"pools" : [
 		 ],
-	"super" : "ARAtomicRefactorsTest",
+	"super" : "ARAbstractTestCase",
 	"type" : "normal" }

@@ -1,0 +1,3 @@
+refactor classes
+pushDownInstanceRefactorClass
+	^ ARPushDownInstanceVariableRefactoring

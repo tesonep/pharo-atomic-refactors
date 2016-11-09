@@ -1,14 +1,14 @@
 {
-	"category" : "AtomicRefactors-Tests",
+	"category" : "AtomicRefactors-Tests-ExampleClass",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
-	"name" : "ARNonAtomicRefactorsTest",
+		"values" ],
+	"name" : "ARExampleSubClass",
 	"pools" : [
 		 ],
-	"super" : "ARAtomicRefactorsTest",
+	"super" : "ARExampleClass",
 	"type" : "normal" }

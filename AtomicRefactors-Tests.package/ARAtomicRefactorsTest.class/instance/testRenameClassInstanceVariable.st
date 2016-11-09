@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testRenameClassInstanceVariable
 	| x refactor |
 	x := example new.
