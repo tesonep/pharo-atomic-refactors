@@ -1,3 +1,0 @@
-Unclassified
-valueThree
-	^ valueThree

@@ -1,3 +1,0 @@
-Unclassified
-valueTwo
-	^ valueTwo
