@@ -4,7 +4,7 @@ baseline: spec
 	spec for: #common do: [ spec
 		baseline: 'AtomicClassInstaller' with: [ spec
 			repository: 'github://tesonep/pharo-AtomicClassInstaller/mc';
-			loads: 'Shift-ClassBuilder' ];
+			loads: 'core' ];
 
 		package: 'AtomicRefactors'
 			with: [ spec requires: #(AtomicClassInstaller) ];
