@@ -9,4 +9,6 @@ execute
 	
 	patch addAll: patchOperations.
 	
+	migrations associationsDo: [ :assoc | patch whenMigrating: assoc key use: assoc value ].
+	
 	loader loadPatch: patch.

@@ -1,6 +1,6 @@
 tests
 testSplitClass
-	| x refactor valuesClass|
+	| x refactor valuesClass child |
 	x := subClass new.
 	x oneInstanceVariable: 23.
 	x values: {16 . 15 . 23}.
@@ -20,10 +20,12 @@ testSplitClass
 	
 	self assert: (x class instanceVariables includes:#values).
 	
-	self assert: x values class equals: valuesClass.
+	child := x instVarNamed: #values.
 	
-	self assert: x values valueOne equals: 16.
-	self assert: x values valueTwo equals: 15.
-	self assert: x values valueThree equals: 23.
+	self assert: child class equals: valuesClass.
 	
-	self should: [ self assert: x values equals: {16 . 15 . 23} ]
+	self assert: child valueOne equals: 16.
+	self assert: child valueTwo equals: 15.
+	self assert: child valueThree equals: 23.
+	
+	self assert: x values equals: {16 . 15 . 23}

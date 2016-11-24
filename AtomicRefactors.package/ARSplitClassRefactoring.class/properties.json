@@ -9,7 +9,8 @@
 		"targetClass",
 		"variablesToExtract",
 		"newClassName",
-		"referenceVariableName" ],
+		"referenceVariableName",
+		"rbTargetClass" ],
 	"name" : "ARSplitClassRefactoring",
 	"pools" : [
 		 ],

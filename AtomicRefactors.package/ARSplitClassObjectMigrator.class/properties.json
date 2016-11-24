@@ -6,10 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"patchOperations",
-		"migrations" ],
-	"name" : "ARAtomicRefactor",
+		"variablesToExtract",
+		"newClassName",
+		"referenceVariableName" ],
+	"name" : "ARSplitClassObjectMigrator",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "ACIDefaultObjectMigrator",
 	"type" : "normal" }
