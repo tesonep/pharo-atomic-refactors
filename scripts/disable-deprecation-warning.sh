@@ -2,7 +2,7 @@
 
 set -ex
 
-./pharo talents.image eval --save "
+./pharo atomicRefactors.image eval --save "
 Deprecation showWarning: false.
 Deprecation raiseWarning: false.
 "
