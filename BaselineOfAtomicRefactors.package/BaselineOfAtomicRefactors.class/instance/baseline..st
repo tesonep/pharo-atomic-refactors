@@ -1,10 +1,16 @@
-as yet unclassified
+baselines
 baseline: spec
 	<baseline>
 	spec for: #common do: [ spec
 		baseline: 'AtomicClassInstaller' with: [ spec
 			repository: 'github://tesonep/pharo-AtomicClassInstaller/mc';
 			loads: 'core' ];
+		
+		project: 'Ficus' with: [
+				spec
+					className: #ConfigurationOfRefactoring2;
+					versionString: #'development';
+					repository: 'http://smalltalkhub.com/mc/GustavoSantos/Refactoring2/main' ];
 
 		package: 'AtomicRefactors'
 			with: [ spec requires: #(AtomicClassInstaller) ];
