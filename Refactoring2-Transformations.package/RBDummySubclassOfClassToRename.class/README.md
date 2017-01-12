@@ -1,0 +1,1 @@
+This is a dummy class to test RenameClass transformation

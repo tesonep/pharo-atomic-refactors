@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Transformations-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 6/29/2016 16:33",
+	"instvars" : [
+		"className" ],
+	"name" : "RBDeprecateClassTransformation",
+	"pools" : [
+		 ],
+	"super" : "RBCompositeTransformation",
+	"type" : "normal" }

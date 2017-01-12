@@ -1,0 +1,1 @@
+This change manager is an extension allowing atomic refactorings.

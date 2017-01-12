@@ -1,0 +1,1 @@
+This object returns the corresponding Refactory Changes to be used with the atomic refactorings.

@@ -1,0 +1,4 @@
+exception
+refactoringError: aString with: aBlock
+
+	^ RBRefactoringError signal: aString with: aBlock

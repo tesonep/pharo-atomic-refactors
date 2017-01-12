@@ -10,5 +10,5 @@
 	"name" : "ARNonAtomicRefactorsTest",
 	"pools" : [
 		 ],
-	"super" : "ARAtomicRefactorsTest",
+	"super" : "AROldAtomicRefactorsTest",
 	"type" : "normal" }

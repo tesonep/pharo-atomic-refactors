@@ -1,3 +1,0 @@
-refactor classes
-pullUpInstanceRefactorClass
-	^ ARPullUpInstanceVariableRefactoring

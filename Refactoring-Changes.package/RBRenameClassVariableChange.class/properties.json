@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring-Changes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NicolaiHess 9/8/2016 23:50",
+	"instvars" : [
+		 ],
+	"name" : "RBRenameClassVariableChange",
+	"pools" : [
+		 ],
+	"super" : "RBRenameVariableChange",
+	"type" : "normal" }

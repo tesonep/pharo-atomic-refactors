@@ -1,0 +1,14 @@
+{
+	"category" : "AtomicRefactors-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ARPullUpVariableTest",
+	"pools" : [
+		 ],
+	"super" : "ARAtomicRefactorsTest",
+	"type" : "normal" }

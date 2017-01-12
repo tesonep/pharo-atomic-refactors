@@ -1,0 +1,15 @@
+{
+	"category" : "Refactoring2-Refactorings-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"className",
+		"selector" ],
+	"name" : "RBCompositeMethodRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBCompositeRefactoring",
+	"type" : "normal" }

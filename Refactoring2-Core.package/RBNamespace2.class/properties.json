@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RBNamespace2",
+	"pools" : [
+		 ],
+	"super" : "RBNamespace",
+	"type" : "normal" }

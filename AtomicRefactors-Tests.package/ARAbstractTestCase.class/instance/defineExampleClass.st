@@ -7,7 +7,7 @@ defineExampleClass
 	Object
 		subclass: #ARSuperclassExampleClass
 		instanceVariableNames: 'superInstanceVariable'
-		classVariableNames: ''
+		classVariableNames: 'SuperClassVariable'
 		package: 'AtomicRefactors-Tests-ExampleClass'.
 
 	superClass := Smalltalk globals at:#ARSuperclassExampleClass.
@@ -40,6 +40,15 @@ defineExampleClass
 	
 	example compile:'superInstanceVariable:anObject
 	superInstanceVariable := anObject'.
+
+	example compile:'superClassVariable
+	^SuperClassVariable'.
+	
+	example compile:'superClassVariable:anObject
+	SuperClassVariable := anObject'.
+	
+	example class compile:'superClassVariable
+	^SuperClassVariable'.
 	
 	example subclass: #ARExampleSubClass
 		instanceVariableNames: 'valueOne valueTwo valueThree'

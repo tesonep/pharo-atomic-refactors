@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Refactorings-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 9/6/2016 14:09",
+	"instvars" : [
+		"message" ],
+	"name" : "RBRemoveMessageSendRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBMethodRefactoring2",
+	"type" : "normal" }

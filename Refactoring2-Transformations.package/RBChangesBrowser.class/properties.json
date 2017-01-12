@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Transformations-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"whenAcceptBlock" ],
+	"name" : "RBChangesBrowser",
+	"pools" : [
+		 ],
+	"super" : "ChangesBrowser",
+	"type" : "normal" }

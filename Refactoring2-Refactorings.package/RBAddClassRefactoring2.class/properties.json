@@ -1,0 +1,16 @@
+{
+	"category" : "Refactoring2-Refactorings-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 5/23/2016 14:31",
+	"instvars" : [
+		"superclass",
+		"subclasses",
+		"category" ],
+	"name" : "RBAddClassRefactoring2",
+	"pools" : [
+		 ],
+	"super" : "RBClassRefactoring2",
+	"type" : "normal" }

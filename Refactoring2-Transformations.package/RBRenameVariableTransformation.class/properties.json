@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Transformations-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 5/31/2016 12:22",
+	"instvars" : [
+		"newVariableName" ],
+	"name" : "RBRenameVariableTransformation",
+	"pools" : [
+		 ],
+	"super" : "RBVariableTransformation",
+	"type" : "normal" }

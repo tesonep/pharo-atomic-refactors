@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Transformations-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 5/24/2016 10:51",
+	"instvars" : [
+		 ],
+	"name" : "RBAddVariableAccessorTransformation",
+	"pools" : [
+		 ],
+	"super" : "RBVariableTransformation",
+	"type" : "normal" }

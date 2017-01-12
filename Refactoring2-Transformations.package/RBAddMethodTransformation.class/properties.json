@@ -1,0 +1,15 @@
+{
+	"category" : "Refactoring2-Transformations-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 6/6/2016 10:34",
+	"instvars" : [
+		"sourceCode",
+		"protocol" ],
+	"name" : "RBAddMethodTransformation",
+	"pools" : [
+		 ],
+	"super" : "RBMethodTransformation",
+	"type" : "normal" }

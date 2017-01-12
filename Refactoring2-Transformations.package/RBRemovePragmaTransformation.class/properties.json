@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Transformations-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 9/6/2016 14:22",
+	"instvars" : [
+		"pragma" ],
+	"name" : "RBRemovePragmaTransformation",
+	"pools" : [
+		 ],
+	"super" : "RBMethodTransformation",
+	"type" : "normal" }

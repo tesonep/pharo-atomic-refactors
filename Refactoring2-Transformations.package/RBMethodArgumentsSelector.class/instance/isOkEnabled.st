@@ -1,0 +1,4 @@
+testing
+isOkEnabled
+
+	^ argumentsList isEmpty

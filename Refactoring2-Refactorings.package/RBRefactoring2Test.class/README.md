@@ -1,0 +1,1 @@
+I am an abstract class to assist Refactoring tests

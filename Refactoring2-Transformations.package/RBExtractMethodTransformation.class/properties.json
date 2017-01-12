@@ -1,0 +1,21 @@
+{
+	"category" : "Refactoring2-Transformations-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 6/29/2016 16:44",
+	"instvars" : [
+		"sourceCode",
+		"newSelector",
+		"newMethod",
+		"parseTree",
+		"subtree",
+		"arguments",
+		"temporaries",
+		"assignments" ],
+	"name" : "RBExtractMethodTransformation",
+	"pools" : [
+		 ],
+	"super" : "RBCompositeMethodTransformation",
+	"type" : "normal" }

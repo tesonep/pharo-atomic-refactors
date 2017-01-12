@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Transformations-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 5/27/2016 14:25",
+	"instvars" : [
+		 ],
+	"name" : "RBPullUpVariableTransformation",
+	"pools" : [
+		 ],
+	"super" : "RBCompositeVariableTransformation",
+	"type" : "normal" }

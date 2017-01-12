@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Transformations-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 5/26/2016 16:06",
+	"instvars" : [
+		 ],
+	"name" : "RBProtectVariableTransformation",
+	"pools" : [
+		 ],
+	"super" : "RBCompositeVariableTransformation",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+initialize
+defaultEnvironment
+
+	^ RBBrowserEnvironment new

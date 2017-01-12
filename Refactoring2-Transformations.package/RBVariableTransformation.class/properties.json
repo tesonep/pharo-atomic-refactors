@@ -1,0 +1,15 @@
+{
+	"category" : "Refactoring2-Transformations-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"variableName",
+		"isClassVariable" ],
+	"name" : "RBVariableTransformation",
+	"pools" : [
+		 ],
+	"super" : "RBClassTransformation",
+	"type" : "normal" }

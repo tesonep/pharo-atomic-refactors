@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Refactorings-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 5/30/2016 14:07",
+	"instvars" : [
+		 ],
+	"name" : "RBPushDownVariableRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBCompositeVariableRefactoring",
+	"type" : "normal" }

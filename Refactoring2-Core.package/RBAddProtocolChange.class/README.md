@@ -1,0 +1,1 @@
+RBRefactoryProtocolChange is responsible for adding a protocol in classes in a RB model

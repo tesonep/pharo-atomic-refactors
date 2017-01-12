@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Transformations-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RBAddMessageSendTransformationTest",
+	"pools" : [
+		 ],
+	"super" : "RBTransformationTest",
+	"type" : "normal" }

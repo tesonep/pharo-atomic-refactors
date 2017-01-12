@@ -1,0 +1,15 @@
+{
+	"category" : "AtomicRefactors-Changes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PabloTesone 1/12/2017 14:30",
+	"instvars" : [
+		"patch",
+		"loader" ],
+	"name" : "ARRefactoryChangeManager",
+	"pools" : [
+		 ],
+	"super" : "RBRefactoryChangeManager",
+	"type" : "normal" }

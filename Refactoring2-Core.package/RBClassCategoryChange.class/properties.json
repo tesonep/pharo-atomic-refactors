@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Core-Changes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "StephaneDucasse 8/17/2016 15:39",
+	"instvars" : [
+		"category" ],
+	"name" : "RBClassCategoryChange",
+	"pools" : [
+		 ],
+	"super" : "RBRefactoryClassChange",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "AtomicRefactors-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AROldAtomicRefactorsTest",
+	"pools" : [
+		 ],
+	"super" : "ARAbstractTestCase",
+	"type" : "normal" }

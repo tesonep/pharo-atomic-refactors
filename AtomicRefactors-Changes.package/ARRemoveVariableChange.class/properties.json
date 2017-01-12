@@ -1,0 +1,14 @@
+{
+	"category" : "AtomicRefactors-Changes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PabloTesone 1/12/2017 14:29",
+	"instvars" : [
+		 ],
+	"name" : "ARRemoveVariableChange",
+	"pools" : [
+		 ],
+	"super" : "ARVariableChange",
+	"type" : "normal" }

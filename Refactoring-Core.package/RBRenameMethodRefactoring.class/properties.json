@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring-Core-Refactorings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NicolaiHess 8/6/2016 14:10",
+	"instvars" : [
+		"hasPermutedArguments" ],
+	"name" : "RBRenameMethodRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBChangeMethodNameRefactoring",
+	"type" : "normal" }

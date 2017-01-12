@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Refactorings-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 5/25/2016 18:33",
+	"instvars" : [
+		"newClassName" ],
+	"name" : "RBMoveInstanceVariableToClassRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBCompositeVariableRefactoring",
+	"type" : "normal" }

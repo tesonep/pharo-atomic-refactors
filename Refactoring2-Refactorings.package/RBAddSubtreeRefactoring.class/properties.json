@@ -1,0 +1,15 @@
+{
+	"category" : "Refactoring2-Refactorings-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 6/22/2016 11:00",
+	"instvars" : [
+		"interval",
+		"sourceCode" ],
+	"name" : "RBAddSubtreeRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBMethodRefactoring2",
+	"type" : "normal" }

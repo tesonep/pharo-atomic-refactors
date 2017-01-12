@@ -1,0 +1,1 @@
+I represent adding a new instance or class variable

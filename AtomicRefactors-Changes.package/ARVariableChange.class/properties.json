@@ -1,0 +1,16 @@
+{
+	"category" : "AtomicRefactors-Changes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "PabloTesone 1/12/2017 14:33",
+	"instvars" : [
+		"variableName",
+		"targetClass",
+		"isClassSide" ],
+	"name" : "ARVariableChange",
+	"pools" : [
+		 ],
+	"super" : "RBRefactoryChange",
+	"type" : "normal" }

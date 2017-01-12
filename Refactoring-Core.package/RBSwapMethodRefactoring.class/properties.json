@@ -1,0 +1,15 @@
+{
+	"category" : "Refactoring-Core-Refactorings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NicolaiHess 8/6/2016 14:03",
+	"instvars" : [
+		"target",
+		"selector" ],
+	"name" : "RBSwapMethodRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBMethodRefactoring",
+	"type" : "normal" }

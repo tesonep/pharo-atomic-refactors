@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Core-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "StephaneDucasse 8/17/2016 14:59",
+	"instvars" : [
+		 ],
+	"name" : "RBAbstractClass2",
+	"pools" : [
+		 ],
+	"super" : "RBAbstractClass",
+	"type" : "normal" }

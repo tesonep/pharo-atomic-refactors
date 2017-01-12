@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Transformations-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 6/6/2016 10:47",
+	"instvars" : [
+		"transformationBlock" ],
+	"name" : "RBCustomTransformation",
+	"pools" : [
+		 ],
+	"super" : "RBTransformation",
+	"type" : "normal" }

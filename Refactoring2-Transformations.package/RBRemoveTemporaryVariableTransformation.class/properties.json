@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Transformations-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 8/19/2015 17:27",
+	"instvars" : [
+		"variableName" ],
+	"name" : "RBRemoveTemporaryVariableTransformation",
+	"pools" : [
+		 ],
+	"super" : "RBMethodTransformation",
+	"type" : "normal" }

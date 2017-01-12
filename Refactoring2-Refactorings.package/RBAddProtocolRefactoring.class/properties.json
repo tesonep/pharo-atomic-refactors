@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Refactorings-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 9/5/2016 14:47",
+	"instvars" : [
+		"protocol" ],
+	"name" : "RBAddProtocolRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBClassRefactoring2",
+	"type" : "normal" }

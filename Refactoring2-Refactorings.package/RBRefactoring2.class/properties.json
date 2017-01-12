@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Refactorings-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 9/5/2016 16:17",
+	"instvars" : [
+		 ],
+	"name" : "RBRefactoring2",
+	"pools" : [
+		 ],
+	"super" : "RBTransformation",
+	"type" : "normal" }

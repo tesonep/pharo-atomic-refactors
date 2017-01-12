@@ -1,0 +1,16 @@
+{
+	"category" : "Refactoring2-Transformations-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"RecursiveSelfRule" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rewriteRule",
+		"builder",
+		"class" ],
+	"name" : "RBTransformationDummyRuleTest",
+	"pools" : [
+		 ],
+	"super" : "RBFooDummyLintRuleTest",
+	"type" : "normal" }

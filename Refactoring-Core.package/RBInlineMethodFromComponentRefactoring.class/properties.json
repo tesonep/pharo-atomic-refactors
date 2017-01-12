@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring-Core-Refactorings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NicolaiHess 8/6/2016 14:50",
+	"instvars" : [
+		 ],
+	"name" : "RBInlineMethodFromComponentRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBInlineMethodRefactoring",
+	"type" : "normal" }

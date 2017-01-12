@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Transformations-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 9/5/2016 11:47",
+	"instvars" : [
+		"rewriteRule1" ],
+	"name" : "RBDummySubclassOfClassToRename",
+	"pools" : [
+		 ],
+	"super" : "RBDummyClassToRename",
+	"type" : "normal" }

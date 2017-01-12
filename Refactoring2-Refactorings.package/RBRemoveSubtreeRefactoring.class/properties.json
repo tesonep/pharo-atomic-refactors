@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Refactorings-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 6/22/2016 10:59",
+	"instvars" : [
+		"sourceCode" ],
+	"name" : "RBRemoveSubtreeRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBMethodRefactoring2",
+	"type" : "normal" }

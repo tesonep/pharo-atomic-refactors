@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Refactorings-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RBAddClassRefactoring2Test",
+	"pools" : [
+		 ],
+	"super" : "RBRefactoring2Test",
+	"type" : "normal" }

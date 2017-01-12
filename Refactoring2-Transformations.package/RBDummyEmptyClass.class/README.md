@@ -1,0 +1,1 @@
+MRDummyEmptyClass is a test class to exercise class transformations

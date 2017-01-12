@@ -1,0 +1,1 @@
+This object represents a change in a variable, adding / removing in the instance or class side.

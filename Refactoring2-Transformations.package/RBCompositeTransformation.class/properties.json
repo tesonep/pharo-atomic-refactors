@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Transformations-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"transformations" ],
+	"name" : "RBCompositeTransformation",
+	"pools" : [
+		 ],
+	"super" : "RBTransformation",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Transformations-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"temporaryVariable" ],
+	"name" : "RBDummyRefactoryTestDataApp",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

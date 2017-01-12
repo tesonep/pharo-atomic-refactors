@@ -1,0 +1,1 @@
+I am an editor to set the name of a method from a given collection of arguments. Optionally, one can add or remove arguments.

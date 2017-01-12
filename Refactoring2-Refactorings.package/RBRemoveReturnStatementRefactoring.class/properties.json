@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Refactorings-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 9/6/2016 17:33",
+	"instvars" : [
+		"returnValue" ],
+	"name" : "RBRemoveReturnStatementRefactoring",
+	"pools" : [
+		 ],
+	"super" : "RBMethodRefactoring2",
+	"type" : "normal" }

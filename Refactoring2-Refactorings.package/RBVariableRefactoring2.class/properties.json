@@ -1,0 +1,15 @@
+{
+	"category" : "Refactoring2-Refactorings-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"variableName",
+		"isClassVariable" ],
+	"name" : "RBVariableRefactoring2",
+	"pools" : [
+		 ],
+	"super" : "RBClassRefactoring2",
+	"type" : "normal" }

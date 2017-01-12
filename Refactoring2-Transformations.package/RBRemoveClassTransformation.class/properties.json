@@ -1,0 +1,14 @@
+{
+	"category" : "Refactoring2-Transformations-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "GustavoSantos 5/23/2016 15:14",
+	"instvars" : [
+		 ],
+	"name" : "RBRemoveClassTransformation",
+	"pools" : [
+		 ],
+	"super" : "RBClassTransformation",
+	"type" : "normal" }

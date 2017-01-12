@@ -1,0 +1,3 @@
+converting
+asUndoOperation
+	^ RBRefactoryChangeManager changeFactory removeInstanceVariable: variableName from: targetClass
