@@ -1,6 +1,0 @@
-{
-	"category" : "Epicea-Visitors",
-	"classtraitcomposition" : "EpTCodeChangeVisitor classTrait",
-	"commentStamp" : "<historical>",
-	"name" : "EpTEventVisitor",
-	"traitcomposition" : "EpTCodeChangeVisitor" }

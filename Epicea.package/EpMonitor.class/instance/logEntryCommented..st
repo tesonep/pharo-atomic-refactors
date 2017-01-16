@@ -1,3 +1,0 @@
-announcement handling
-logEntryCommented: aCommentModification
-	self addEvent: aCommentModification.
