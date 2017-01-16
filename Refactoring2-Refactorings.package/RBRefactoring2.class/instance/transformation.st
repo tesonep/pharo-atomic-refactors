@@ -1,4 +1,0 @@
-accessing
-transformation
-
-	self subclassResponsibility

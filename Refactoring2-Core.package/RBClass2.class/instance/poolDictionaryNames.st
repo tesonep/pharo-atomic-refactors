@@ -1,4 +1,0 @@
-accessing
-poolDictionaryNames
-
-	^ self privatePoolDictionaryNames copy

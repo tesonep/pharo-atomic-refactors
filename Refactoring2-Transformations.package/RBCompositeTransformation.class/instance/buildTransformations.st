@@ -1,4 +1,0 @@
-executing
-buildTransformations
-
-	self subclassResponsibility

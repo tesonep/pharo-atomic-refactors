@@ -1,4 +1,0 @@
-printing
-displayProtocolName
-
-	^ protocol

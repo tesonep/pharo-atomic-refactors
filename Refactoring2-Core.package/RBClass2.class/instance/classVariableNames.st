@@ -1,4 +1,0 @@
-accessing
-classVariableNames
-	
-	^ self privateClassVariableNames copy

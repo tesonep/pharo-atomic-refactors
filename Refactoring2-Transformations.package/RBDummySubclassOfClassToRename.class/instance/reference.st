@@ -1,4 +1,0 @@
-performing
-reference
-
-	^ RBDummyClassToRename new

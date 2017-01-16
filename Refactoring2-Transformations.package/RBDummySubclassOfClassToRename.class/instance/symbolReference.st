@@ -1,4 +1,0 @@
-performing
-symbolReference
-
-	^ #RBDummyClassToRename
