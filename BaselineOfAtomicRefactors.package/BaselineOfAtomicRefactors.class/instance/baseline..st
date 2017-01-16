@@ -5,8 +5,8 @@ baseline: spec
 		baseline: 'AtomicClassInstaller' with: [ spec
 			repository: 'github://tesonep/pharo-AtomicClassInstaller/mc';
 			loads: 'core' ];
-		
-		project: 'Ficus' with: [
+				
+		project: 'Refactoring2' with: [
 				spec
 					className: #ConfigurationOfRefactoring2;
 					versionString: #'development';
