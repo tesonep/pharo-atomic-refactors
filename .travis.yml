@@ -15,5 +15,7 @@ install:
   - ./scripts/disable-deprecation-warning.sh 
 
 script:
-  - ./pharo atomicRefactors.image test --no-xterm --fail-on-failure "AtomicRefactors-Tests" "Refactoring-.*"
+  - ./pharo Pharo.image test --no-xterm "Refactoring-.*"	
+  - ./pharo refactoring2.image test --no-xterm "Refactoring-.*"	
+  - ./pharo atomicRefactors.image test --no-xterm "AtomicRefactors-Tests" "Refactoring-.*"
 
