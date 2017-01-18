@@ -17,5 +17,5 @@ install:
 script:
   - ./pharo Pharo.image test --no-xterm --fail-on-failure "Refactoring.*"	
   - ./pharo refactoring2.image test --no-xterm --fail-on-failure "Refactoring.*"	
-  - ./pharo atomicRefactors.image test --no-xterm "AtomicRefactors-Tests" "Refactoring.*"
+  - ./pharo atomicRefactors.image test --no-xterm --fail-on-failure "AtomicRefactors-Tests" "Refactoring.*"
 
