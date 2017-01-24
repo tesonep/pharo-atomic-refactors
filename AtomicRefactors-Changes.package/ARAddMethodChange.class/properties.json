@@ -4,10 +4,13 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "PabloTesone 1/12/2017 14:33",
+	"commentStamp" : "PabloTesone 1/20/2017 14:01",
 	"instvars" : [
-		"variableName" ],
-	"name" : "ARVariableChange",
+		"sourceCode",
+		"protocol",
+		"controller",
+		"selector" ],
+	"name" : "ARAddMethodChange",
 	"pools" : [
 		 ],
 	"super" : "ARAbstractChange",

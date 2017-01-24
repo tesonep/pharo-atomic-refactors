@@ -3,7 +3,7 @@ primitiveExecute
 	| modifyClass |
 	modifyClass := APModifyClass fromRBClass: targetClass.	
 		
-	isClassSide
+	isMeta
 		ifTrue: [ modifyClass removeClassSlotNamed: variableName asSymbol ]
 		ifFalse: [ modifyClass removeSlotNamed: variableName asSymbol ].
 
