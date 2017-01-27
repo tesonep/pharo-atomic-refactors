@@ -1,10 +1,10 @@
 accessing
 primitiveExecute
 	| modifyClass |
-	modifyClass := APModifyClass fromRBClass: targetClass.	
-		
+	modifyClass := self classModification.
+
 	isMeta
 		ifTrue: [ modifyClass removeClassSlotNamed: variableName asSymbol ]
 		ifFalse: [ modifyClass removeSlotNamed: variableName asSymbol ].
 
-	ARRefactoryChangeManager instance patch addOperation: modifyClass.
+	ARRefactoryChangeManager instance builder addOperation: modifyClass

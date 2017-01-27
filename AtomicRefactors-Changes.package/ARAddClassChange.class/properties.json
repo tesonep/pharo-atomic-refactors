@@ -1,0 +1,16 @@
+{
+	"category" : "AtomicRefactors-Changes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"controller",
+		"definition",
+		"rbChange" ],
+	"name" : "ARAddClassChange",
+	"pools" : [
+		 ],
+	"super" : "ARAbstractChange",
+	"type" : "normal" }

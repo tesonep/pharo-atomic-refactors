@@ -7,9 +7,11 @@ defineExampleClass
 		instanceVariableNames: 'anInstanceVariable'
 		classVariableNames: 'AClassVariable'
 		package: 'AtomicRefactors-Tests-ExampleClass'.
-
 	
 	classProtectVariable := Smalltalk globals at:#ARClassProtectVariableTest.
+
+	classProtectVariable class
+		instanceVariableNames: 'aMetaclassInstanceVariable'.
 	
 	classProtectVariable 
 		subclass: #ARSubClassProtectVariableTest
@@ -42,4 +44,15 @@ defineExampleClass
 	
 	classProtectVariable compile: 'valueClass
 		^ AClassVariable
+	'.
+
+	classProtectVariable class
+		compile: 'aMetaclassInstanceVariable
+		^ aMetaclassInstanceVariable
+	'.
+
+
+	classProtectVariable class
+		compile: 'aMetaclassInstanceVariable: aValue
+		aMetaclassInstanceVariable := aValue
 	'.

@@ -1,8 +1,8 @@
 private
 doPerformChange: aRefactoringChange
 	loader := AtomicLoader new.
-	patch := AtomicPatch new.
+	patchBuilder := AtomicPatchBuilder new.
 	
 	self addUndo: aRefactoringChange execute.
 			
-	loader loadPatch: patch.
+	loader loadPatch: patchBuilder buildPatch.

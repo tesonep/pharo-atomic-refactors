@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "PabloTesone 1/12/2017 14:30",
 	"instvars" : [
-		"patch",
-		"loader" ],
+		"loader",
+		"patchBuilder" ],
 	"name" : "ARRefactoryChangeManager",
 	"pools" : [
 		 ],

@@ -1,0 +1,14 @@
+{
+	"category" : "AtomicRefactors-Changes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"removeClassName" ],
+	"name" : "ARRemoveClassChange",
+	"pools" : [
+		 ],
+	"super" : "ARAbstractChange",
+	"type" : "normal" }

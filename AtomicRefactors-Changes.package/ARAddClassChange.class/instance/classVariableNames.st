@@ -1,0 +1,3 @@
+accessing
+classVariableNames
+	^ rbChange classVariableNames

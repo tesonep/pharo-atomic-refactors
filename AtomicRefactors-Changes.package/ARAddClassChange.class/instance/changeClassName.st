@@ -1,0 +1,3 @@
+accessing
+changeClassName
+	^ rbChange changeClassName.
