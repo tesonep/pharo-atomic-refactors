@@ -7,8 +7,8 @@ testSplitClass
 
 	self assert: x usingInstanceVariable equals: 23.
 
-	refactor := RBSplitClassRefactoring 
-		class: subClass
+	refactor := RBSplitClassRefactoring2 
+		class: subClass name
 		instanceVariables: #(valueOne valueTwo valueThree)
 		newClassName: #ARExampleSubClassValues
 		referenceVariableName: #values.

@@ -1,0 +1,3 @@
+converting
+asUndoOperation
+	^ ARDummyChange new.

@@ -12,7 +12,7 @@ testProtectClassVariable
 
 	refactor := RBProtectVariableRefactoring 
 		instanceVariable: 'AClassVariable'
-		class: classProtectVariable.
+		class: classProtectVariable name.
 	refactor execute.
 
 

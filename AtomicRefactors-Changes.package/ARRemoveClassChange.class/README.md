@@ -1,0 +1,1 @@
+Removes a class from the system.

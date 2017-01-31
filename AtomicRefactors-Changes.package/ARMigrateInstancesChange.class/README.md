@@ -1,0 +1,1 @@
+This change is the responsible configuring the patch for the migrating the instances

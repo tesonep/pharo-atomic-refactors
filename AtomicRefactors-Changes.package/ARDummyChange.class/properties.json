@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "PabloTesone 1/31/2017 15:33",
 	"instvars" : [
-		"removeClassName" ],
-	"name" : "ARRemoveClassChange",
+		 ],
+	"name" : "ARDummyChange",
 	"pools" : [
 		 ],
-	"super" : "ARAbstractChange",
+	"super" : "RBRefactoryChange",
 	"type" : "normal" }

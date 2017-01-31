@@ -4,10 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "PabloTesone 1/31/2017 15:33",
+	"commentStamp" : "PabloTesone 1/31/2017 15:17",
 	"instvars" : [
-		"removeClassName" ],
-	"name" : "ARRemoveClassChange",
+		"migrator" ],
+	"name" : "ARMigrateInstancesChange",
 	"pools" : [
 		 ],
 	"super" : "ARAbstractChange",

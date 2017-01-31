@@ -14,13 +14,14 @@ baseline: spec
 
 		package: 'AtomicRefactors'
 			with: [ spec requires: #(AtomicClassInstaller) ];
-		package: 'AtomicRefactors-Changes'
-			with: [ spec requires: #(AtomicClassInstaller) ];
+		package: 'AtomicRefactors-Changes';
+		package: 'AtomicRefactors-Transformations';
+		package: 'AtomicRefactors-Migrators';
 		package: 'AtomicRefactors-Tests'
 			with: [ spec requires: #(core) ];
 
 		group: 'core'
-			with: #(AtomicRefactors 'AtomicRefactors-Changes');
+			with: #(AtomicRefactors 'AtomicRefactors-Changes' 'AtomicRefactors-Transformations' 'AtomicRefactors-Migrators');
 		group: 'test'
 			with: #('AtomicRefactors-Tests')
 	]

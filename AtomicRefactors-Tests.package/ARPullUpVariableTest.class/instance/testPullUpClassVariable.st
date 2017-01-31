@@ -8,7 +8,7 @@ testPullUpClassVariable
 
 	refactor := RBPullUpVariableRefactoring 
 		classVariable: 'OneClassVariable'
-		class: superClass.
+		class: superClass name.
 	refactor execute.
 
 	self assert: (superClass classPool keys includes: #OneClassVariable).
