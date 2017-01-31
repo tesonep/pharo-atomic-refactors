@@ -1,0 +1,16 @@
+{
+	"category" : "AtomicRefactors-Migrators",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"variablesToExtract",
+		"newClassName",
+		"referenceVariableName" ],
+	"name" : "ARSplitClassObjectMigrator",
+	"pools" : [
+		 ],
+	"super" : "ACIDefaultObjectMigrator",
+	"type" : "normal" }

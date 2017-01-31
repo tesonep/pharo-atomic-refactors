@@ -1,0 +1,1 @@
+This transformation is in charge of configuring the patch to migrate the instances affected by the refactoring, if needed.
