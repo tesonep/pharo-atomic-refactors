@@ -1,0 +1,14 @@
+{
+	"category" : "AtomicRefactors-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"classMoveInstanceVariable" ],
+	"name" : "ARMoveInstanceVariableToClassRefactoringTest",
+	"pools" : [
+		 ],
+	"super" : "ARAtomicRefactorsTest",
+	"type" : "normal" }
