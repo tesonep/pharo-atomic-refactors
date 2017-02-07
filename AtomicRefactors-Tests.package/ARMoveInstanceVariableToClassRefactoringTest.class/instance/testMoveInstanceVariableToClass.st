@@ -3,12 +3,8 @@ testMoveInstanceVariableToClass
 	| x refactor |
 	x := classMoveInstanceVariable new.
 
-	self assert: x anInstanceVariable equals: 23.
-
 	refactor := RBMoveInstanceVariableToClassRefactoring
 		variable: 'anInstanceVariable'
-		fromClass: classMoveInstanceVariable
-		toClass: classMoveInstanceVariable class.
+		fromClass: classMoveInstanceVariable name
+		toClass: classMoveInstanceVariable class name asSymbol.
 	refactor execute.
-
-	self assert: x anInstanceVariable equals: 23.

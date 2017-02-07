@@ -1,12 +1,13 @@
 {
 	"category" : "AtomicRefactors-Tests-ExampleClass",
 	"classinstvars" : [
-		 ],
+		"anInstanceVariable",
+		"anInstanceVariable" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"anInstanceVariable" ],
+		 ],
 	"name" : "ARClassMoveInstanceVariable",
 	"pools" : [
 		 ],
