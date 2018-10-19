@@ -6,9 +6,9 @@ testPullUpInstanceVariable
 
 	self assert: x usingInstanceVariable equals: 23.
 
-	refactor := RBPullUpVariableRefactoring 
-		instanceVariable: 'oneInstanceVariable'
-		class: superClass name.
+	refactor := ARPullUpInstanceVariableRefactoring 
+		variable: 'oneInstanceVariable'
+		class: superClass.
 	refactor execute.
 
 	self assert: (superClass instanceVariables includes: #oneInstanceVariable).

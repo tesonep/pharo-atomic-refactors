@@ -1,15 +1,14 @@
 {
-	"category" : "AtomicRefactors-Tests",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "ARAtomicRefactorsTest",
+	"category" : "AtomicRefactors-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"classProtectVariable",
-		"subClassProtectVariable" ],
+		"subClassProtectVariable"
+	],
 	"name" : "ARProtectVariableRefactoringTest",
-	"pools" : [
-		 ],
-	"super" : "ARAtomicRefactorsTest",
-	"type" : "normal" }
+	"type" : "normal"
+}

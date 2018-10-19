@@ -1,15 +1,14 @@
 {
+	"commentStamp" : "",
+	"super" : "Object",
 	"category" : "AtomicRefactors-Tests-ExampleClass",
 	"classinstvars" : [
 		"anInstanceVariable",
-		"anInstanceVariable" ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "",
-	"instvars" : [
-		 ],
+		"anInstanceVariable"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
 	"name" : "ARClassMoveInstanceVariable",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -9,7 +9,7 @@ testPushDownInstanceVariable
 	self assert: x superInstanceVariable equals: 72.
 
 
-	refactor := RBPushDownVariableRefactoring instanceVariable: 'superInstanceVariable' class: superClass.
+	refactor := ARPushDownInstanceVariableRefactoring variable: 'superInstanceVariable' class: superClass.
 	refactor execute.
 
 	self deny: (superClass instanceVariables includes:#superInstanceVariable). 

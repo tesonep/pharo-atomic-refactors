@@ -1,14 +1,11 @@
 {
-	"category" : "AtomicRefactors-Tests",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "ARAtomicRefactorsTest",
-	"pools" : [
-		 ],
 	"super" : "ARAbstractTestCase",
-	"type" : "normal" }
+	"category" : "AtomicRefactors-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ARAtomicRefactorsTest",
+	"type" : "normal"
+}
