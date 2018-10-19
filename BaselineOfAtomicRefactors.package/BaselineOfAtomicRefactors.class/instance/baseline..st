@@ -5,12 +5,6 @@ baseline: spec
 		baseline: 'AtomicClassInstaller' with: [ spec
 			repository: 'github://tesonep/pharo-AtomicClassInstaller/mc';
 			loads: 'core' ];
-				
-		project: 'Refactoring2' with: [
-				spec
-					className: #ConfigurationOfRefactoring2;
-					versionString: #'0.0.1';
-					repository: 'http://smalltalkhub.com/mc/GustavoSantos/Refactoring2/main' ];
 
 		package: 'AtomicRefactors'
 			with: [ spec requires: #(AtomicClassInstaller) ];
